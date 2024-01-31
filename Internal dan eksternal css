@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Menghubungkan Css</h1>
+    <h2>Eksternal</h2>
+    <p>Menggunakan (link)</p>
+
+    <h2>internal</h2>
+    <p>untuk yang internal bisa menggunakan cara dibawah ini</p>
+    <style>
+        p{
+            color: blue;
+        }
+    </style>    
+
+    <p>Ini paragraf yang sudah diberi style</p>
+</body>
+</html>
