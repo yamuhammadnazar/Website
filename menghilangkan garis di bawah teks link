@@ -1,0 +1,8 @@
+
+a{
+    text-decoration: none;  // berfungsi untuk menghapusnya
+    color: brown; // Mengubah warnanya
+}
+
+
+code diatas digunakan dibagian style
