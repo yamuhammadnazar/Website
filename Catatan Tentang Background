@@ -1,0 +1,2 @@
+background-image (berfungsi untuk menampilkan background dengan latar belakang berupa gambar)
+background-size : cover; (membuat ukuran background gambar mentok di layar, disesuaikan dengan div atau section)
